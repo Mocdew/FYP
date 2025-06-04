@@ -1,0 +1,4 @@
+Image Name,Operation,Time (seconds)
+all_images,load_images,8.6253
+TMC.png,text_extraction,3.7626
+TMC.png,text_extraction,1.7741
